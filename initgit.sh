@@ -1,0 +1,1 @@
+gh repo create talk-to-dogecoin-via-rpc --public; git init; echo "# talk-to-dogecoin-via-rpc" >> README.md; git add README.md; git commit -m "first commit"; git remote add origin git@github.com:robjohncolson/talk-to-dogecoin-via-rpc.git; git push -u origin master; git add .; git commit -m "2nd commit"
